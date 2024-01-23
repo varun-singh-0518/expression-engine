@@ -6,7 +6,7 @@ It provides a user interface for creating and managing expression rules. The use
 
 ## Screenshots
 
-![App Screenshot](https://i.postimg.cc/9ftY5psH/Screenshot-2024-01-23-152457.png)
+![App Screenshot](https://i.postimg.cc/BvvCxDXT/Screenshot-2024-01-23-152457.png)
 
 ![App Screenshot](https://i.postimg.cc/L4rYDP0t/Screenshot-2024-01-23-152523.png) 
 
