@@ -8,7 +8,7 @@ It provides a user interface for creating and managing expression rules. The use
 
 ![App Screenshot](https://i.postimg.cc/BvvCxDXT/Screenshot-2024-01-23-152457.png)
 
-![App Screenshot](https://i.postimg.cc/L4rYDP0t/Screenshot-2024-01-23-152523.png) 
+![App Screenshot](https://i.postimg.cc/wvG4t22R/Screenshot-2024-01-23-152523.png) 
 
 
 # Features
